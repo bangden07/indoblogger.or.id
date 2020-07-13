@@ -1,6 +1,1 @@
----
-layout: none
----
-
-User-agent: *
-Sitemap: {{site.baseurl}}/sitemap.xml
+Sitemap: https://indoblogger.or.id/sitemap.xml
