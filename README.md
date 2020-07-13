@@ -16,7 +16,7 @@ If you want to use these themes. You can use the automatic deployment feature by
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bangden07/indoblogger-site/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bangden07/indoblogger.or.id/tree/master)
 
 ### Netlify
 
