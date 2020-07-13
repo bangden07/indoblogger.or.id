@@ -1,1 +1,6 @@
+---
+layout: null
+sitemap: false
+---
+User-agent: *
 Sitemap: https://indoblogger.or.id/sitemap.xml
