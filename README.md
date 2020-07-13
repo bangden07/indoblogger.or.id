@@ -4,7 +4,21 @@
 
 [![Build Status](https://travis-ci.com/bangden07/indoblogger.or.id.svg?branch=master)](https://travis-ci.com/bangden07/indoblogger.or.id) [![CircleCI](https://circleci.com/gh/bangden07/indoblogger.or.id.svg?style=svg)](https://circleci.com/gh/bangden07/indoblogger.or.id) [![Heroku](https://heroku-badge.herokuapp.com/?app=indoblogger)]()
 
+#### Note
+
 This theme comes from Wowthemes, then I modified it for SEO optimization and updates to the bootstrap, Popper, Font Awesome, and the addition of highlighter syntax features using Prism.
+
+### Before
+
+Before being modified and optimized
+
+[![Before being modified and optimized.](/before.png)]()
+
+### After
+
+After making changes and updating and optimization for SEO.
+
+[![Before being modified and optimized.](/after.png)]()
 
 If you want to use the source code, you can visit here: [Mundana Themes - by wowthemes](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/).
 
