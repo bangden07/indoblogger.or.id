@@ -36,10 +36,6 @@ If you want to use these themes. You can use the automatic deployment feature by
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bangden07/indoblogger.or.id)
 
-### Now SH
-
-[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/bangden07/indoblogger.or.id/tree/master)
-
 ### Vercel
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/bangden07/indoblogger.or.id/tree/master)
